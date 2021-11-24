@@ -1,0 +1,35 @@
+.App {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.App-Container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 70%;
+  height: 40.8rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.Card1 {
+  position: relative;
+}
+
+.Card2 {
+  margin-top: 6rem;
+  margin-left: 13rem;
+  position: absolute;
+}
+
+.Card3 {
+  margin-top: 12rem;
+  margin-left: 26rem;
+  margin-right: 2rem;
+  position: absolute;
+}
